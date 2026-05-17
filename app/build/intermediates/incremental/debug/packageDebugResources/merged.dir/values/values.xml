@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="cream_background">#FDF6E3</color>
+    <color name="purple_dark">#4A0080</color>
+    <color name="purple_light">#9C4DFF</color>
+    <color name="purple_primary">#6A0DAD</color>
+    <color name="red_secondary">#C0392B</color>
+    <color name="text_dark">#333333</color>
+    <color name="text_light">#777777</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow_accent">#FFD700</color>
+    <string name="app_name">Kalavidara-Balaga</string>
+    <string name="call_now">Call Now</string>
+    <string name="clear_filters">Clear Filters</string>
+    <string name="mission_statement">Preserving Karnataka\'s folk arts by connecting troupes with event managers</string>
+    <string name="title_about">About</string>
+    <string name="title_home">Home</string>
+    <string name="title_search">Search</string>
+    <style name="Theme.KalavidaraBalaga" parent="Theme.Material3.Light.NoActionBar">
+        
+        <item name="colorPrimary">@color/purple_primary</item>
+        <item name="colorPrimaryVariant">@color/purple_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        
+        <item name="colorSecondary">@color/red_secondary</item>
+        <item name="colorSecondaryVariant">@color/red_secondary</item>
+        <item name="colorOnSecondary">@color/white</item>
+        
+        
+        <item name="colorTertiary">@color/yellow_accent</item>
+
+        
+        <item name="android:windowBackground">@color/cream_background</item>
+        <item name="android:colorBackground">@color/cream_background</item>
+        
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+    </style>
+</resources>

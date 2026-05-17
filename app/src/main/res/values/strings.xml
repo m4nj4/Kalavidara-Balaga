@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kalavidara-Balaga</string>
+    <string name="title_home">Home</string>
+    <string name="title_search">Search</string>
+    <string name="title_about">About</string>
+    <string name="call_now">Call Now</string>
+    <string name="clear_filters">Clear Filters</string>
+    <string name="mission_statement">Preserving Karnataka\'s folk arts by connecting troupes with event managers</string>
+</resources>

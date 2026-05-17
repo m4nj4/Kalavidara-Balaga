@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary: Deep Purple -->
+    <color name="purple_primary">#6A0DAD</color>
+    <color name="purple_dark">#4A0080</color>
+    <color name="purple_light">#9C4DFF</color>
+    
+    <!-- Accent: Golden Yellow -->
+    <color name="yellow_accent">#FFD700</color>
+    
+    <!-- Secondary: Warm Red -->
+    <color name="red_secondary">#C0392B</color>
+    
+    <!-- Background: Cream -->
+    <color name="cream_background">#FDF6E3</color>
+    
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="text_dark">#333333</color>
+    <color name="text_light">#777777</color>
+</resources>

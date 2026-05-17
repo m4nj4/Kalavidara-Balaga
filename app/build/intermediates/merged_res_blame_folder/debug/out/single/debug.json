@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "com.example.kalavidarabalaga.app-merged_res-47:/layout_item_troupe.xml.flat",
+        "source": "com.example.kalavidarabalaga.app-main-49:/layout/item_troupe.xml"
+    },
+    {
+        "merged": "com.example.kalavidarabalaga.app-merged_res-47:/drawable_placeholder_image.xml.flat",
+        "source": "com.example.kalavidarabalaga.app-main-49:/drawable/placeholder_image.xml"
+    },
+    {
+        "merged": "com.example.kalavidarabalaga.app-merged_res-47:/layout_item_gallery.xml.flat",
+        "source": "com.example.kalavidarabalaga.app-main-49:/layout/item_gallery.xml"
+    },
+    {
+        "merged": "com.example.kalavidarabalaga.app-merged_res-47:/drawable_ic_info.xml.flat",
+        "source": "com.example.kalavidarabalaga.app-main-49:/drawable/ic_info.xml"
+    },
+    {
+        "merged": "com.example.kalavidarabalaga.app-merged_res-47:/layout_fragment_about.xml.flat",
+        "source": "com.example.kalavidarabalaga.app-main-49:/layout/fragment_about.xml"
+    },
+    {
+        "merged": "com.example.kalavidarabalaga.app-merged_res-47:/drawable_ic_home.xml.flat",
+        "source": "com.example.kalavidarabalaga.app-main-49:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.example.kalavidarabalaga.app-merged_res-47:/layout_fragment_search.xml.flat",
+        "source": "com.example.kalavidarabalaga.app-main-49:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "com.example.kalavidarabalaga.app-merged_res-47:/layout_activity_main.xml.flat",
+        "source": "com.example.kalavidarabalaga.app-main-49:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.kalavidarabalaga.app-merged_res-47:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.kalavidarabalaga.app-main-49:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.kalavidarabalaga.app-merged_res-47:/drawable_ic_back.xml.flat",
+        "source": "com.example.kalavidarabalaga.app-main-49:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "com.example.kalavidarabalaga.app-merged_res-47:/drawable_ic_search.xml.flat",
+        "source": "com.example.kalavidarabalaga.app-main-49:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.example.kalavidarabalaga.app-merged_res-47:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.example.kalavidarabalaga.app-main-49:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.example.kalavidarabalaga.app-merged_res-47:/layout_activity_profile.xml.flat",
+        "source": "com.example.kalavidarabalaga.app-main-49:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.example.kalavidarabalaga.app-merged_res-47:/drawable_ic_call.xml.flat",
+        "source": "com.example.kalavidarabalaga.app-main-49:/drawable/ic_call.xml"
+    },
+    {
+        "merged": "com.example.kalavidarabalaga.app-merged_res-47:/layout_fragment_home.xml.flat",
+        "source": "com.example.kalavidarabalaga.app-main-49:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.kalavidarabalaga.app-merged_res-47:/drawable_ic_drum.xml.flat",
+        "source": "com.example.kalavidarabalaga.app-main-49:/drawable/ic_drum.xml"
+    },
+    {
+        "merged": "com.example.kalavidarabalaga.app-merged_res-47:/xml_backup_rules.xml.flat",
+        "source": "com.example.kalavidarabalaga.app-main-49:/xml/backup_rules.xml"
+    }
+]
